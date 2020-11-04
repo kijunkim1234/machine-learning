@@ -1,4 +1,4 @@
-<h1> mnist keras code</h1>
+<h1>mnist code /h1>
 
 1. dnn_mnist
 [dnn_mnist](https://colab.research.google.com/drive/1KKLKo_oRG290vvB0jYUBhIEptmlDUx7x?usp=sharing)
@@ -11,3 +11,5 @@
 
 4. denoising_autoencoder
 [denoising_autoencoder](https://colab.research.google.com/drive/1F7rIaSb0O8cuJhaAgHpG6BNRg6puaJes)
+
+
