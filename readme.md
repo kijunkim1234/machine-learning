@@ -12,4 +12,7 @@
 4. denoising_autoencoder
 [denoising_autoencoder](https://colab.research.google.com/drive/1F7rIaSb0O8cuJhaAgHpG6BNRg6puaJes)
 
+5. mnist_super_resolution
+[mnist_super_resolution](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/mnist_super_resolution.ipynb)
+
 
